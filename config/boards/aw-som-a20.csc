@@ -6,3 +6,5 @@ MODULES="hci_uart gpio_sunxi rfcomm hidp bonding spi_sun7i"
 MODULES_NEXT="bonding"
 #
 KERNEL_TARGET="next"
+
+
